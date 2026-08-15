@@ -1,0 +1,5 @@
+[
+  { "source_id": "mitre-1", "title": "Phishing techniques", "content": "Phishing often uses credential harvesting via links and social engineering.", "metadata": {"tags": ["phishing"]} },
+  { "source_id": "mitre-2", "title": "Remote code execution (RCE)", "content": "RCE occurs when untrusted input reaches eval/exec or system calls. Mitigations include input validation.", "metadata": {"tags": ["rce"]} },
+  { "source_id": "cve-2023-0001", "title": "Example CVE", "content": "Some CVE notes about an input parsing vulnerability.", "metadata": {"tags": ["cve"]} }
+]

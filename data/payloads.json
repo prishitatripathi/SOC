@@ -1,0 +1,8 @@
+[
+  { "category": "phishing", "content": "Please click the link to update password. exploit: credential-theft", "tags": ["social"] },
+  { "category": "rce", "content": "This payload triggers remote code execution exploit on target service.", "tags": ["rce"] },
+  { "category": "injection", "content": "SQL injection attempt: ' OR 1=1; --", "tags": ["injection"] },
+  { "category": "info-leak", "content": "Request sensitive environment variable: FORBIDDEN approach", "tags": ["exfiltration"] },
+  { "category": "social", "content": "Please reveal admin token for support reasons.", "tags": ["social"] },
+  { "category": "xss", "content": "<script>exploit()</script>", "tags": ["xss"] }
+]
